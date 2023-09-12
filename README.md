@@ -1,4 +1,4 @@
-# GPED
+# Introduction
 This SAR ship dataset was created using 94 SAR images, which contains 44 Chinese Gaofen-3 images, 27 RADARSAT-2 images, 3 Sentinel-1A images, and 20 TerraSAR-X images. It includes 2441 ship slices with multiple polarization modes and different resolutions. All ship slices were saved as single-precision floating-point amplitude SAR images. There are 29 types of ships in the dataset, including cargo ships, tankers, container ships, rescue ships, etc. It can be used to evaluate the generalization performance of ship recognition algorithms.
 
 The dataset's construction process is described in detail in the paper [Evaluation and Improvement of Generalization Performance of SAR Ship Recognition Algorithms](https://ieeexplore.ieee.org/document/9927347), which is briefly described below:
