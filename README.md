@@ -7,13 +7,13 @@ The dataset's construction process is described in detail in the paper [Evaluati
 3.	Linear interpolation and extrapolation processes were performed to unify the temporal and spatial positions of the AIS data with SAR images. Then, we obtained 1557 ship slices and their corresponding AIS data.
 4.	Based on AIS data, The LabelImg tool was used to generate label of ship slices. The annotation of ships was stored in XML format. Finally, the corresponding labels for each ship slice are obtained.
 
-## Cite as
+## Citation
 
-**If you feel this dataset is useful, please cite as the following format.**
+**Please cite the following paper if you use GPED in your publications:**
 
 C. Zhang, X. Zhang, J. Zhang, et al., "Evaluation and Improvement of Generalization Performance of SAR Ship Recognition Algorithms," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2022.3216623.
 
+## Copyright
 
-## Contact
-
+Copyright at the First Institute of Oceanography, Ministry of Natural Resources. 
 Please contact us if you have any questions: xi.zhang@fio.org.cn (Prof. Zhang).
